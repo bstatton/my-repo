@@ -2,3 +2,4 @@
 testing setup
 A line I wrote on my local computer
 commit requires a password
+This is my new attempt to add text
